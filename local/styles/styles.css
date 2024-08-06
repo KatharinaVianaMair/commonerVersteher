@@ -400,6 +400,14 @@ h2 {
   justify-content: center;
 }
 
+#mustersprachanalyse{
+  width: 100%;
+  text-align:center;
+  height: fit-content;
+  display: flex;
+  justify-content: center;
+}
+
 @property --p {
   syntax: '<number>';
   inherits: true;
