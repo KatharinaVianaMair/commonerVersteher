@@ -66,7 +66,15 @@ body,
   justify-content: space-evenly;
   width: 100%;
 }
-
+.mustersprache {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+}
+.musterspracheanalyse{
+  width: 100%;
+  text-align: center;
+}
 header {
   width: 100%;
   background: linear-gradient(90deg, #3d008d, #5f3a8f, #3d008d);
